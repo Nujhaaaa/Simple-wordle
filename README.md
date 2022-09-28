@@ -3,5 +3,5 @@
 ## Authors
 
 * Demilade Adewole - doa6zp
-* Author 2 - netID
+* Jessica Oraegbu - mfg9rv
 * Author 3 - netID
