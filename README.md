@@ -2,6 +2,6 @@
 
 ## Authors
 
-* Author 1 - netID
+* Demilade Adewole - doa6zp
 * Author 2 - netID
 * Author 3 - netID
